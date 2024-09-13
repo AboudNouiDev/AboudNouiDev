@@ -24,8 +24,11 @@ I use ArchLinux BTW (im not gay)
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="500">
   </div>
 <br><br><br><br>
+
+### Al Ghazali Quote
+Remember it is the heart and not the body, which strives to draw near to God.
 ---
-[![]https://visitcount.itsvg.in/api?id=AboudNouiDev&icon=0&color=0](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AboudNouiDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!---
