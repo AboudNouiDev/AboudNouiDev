@@ -3,15 +3,11 @@ Aboud 20yo a sad algerian guy with epic taste in cinema music and pretty much ev
 ![I have stolen this gif](https://media1.tenor.com/m/tWepUqY-q_kAAAAC/zelda.gif)
 ###### (I have stolen this gif)
 ## **💻 Experience**
-I can code anything
+I can code
 <br>
-I studied electrical engineering in high school 2 years 
+I'm currently studying computer engineering
 <br>
-2 BAC in Mathematics techniques
-<br>
-I'm currently studying computer engineering in my second year
-<br>
-I use ArchLinux BTW (im not gay)
+Debian The Goat
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
